@@ -88,3 +88,5 @@ Escolha uma opção:
             print('Total de Cadeiras Vendidas: {}'.format(totQtVendidas))
             print('Total do Espetáculo em R$: {}'.format(totEspetaculo))
             break
+
+print("Testando")
